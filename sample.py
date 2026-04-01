@@ -37,3 +37,10 @@ print(student)
 print(type(student))
 
 print("git is working")
+
+
+#Arithmetic operations
+x=23
+y=7
+print(x+y)
+print(x%y)
